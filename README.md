@@ -21,7 +21,26 @@
      ![Captura 1.9](./Screenshots/Captura%201-8.png "El directorio remoto contiene el archivo README.md i la carpeta que contiene las capturas del ejercicio, con su contenido incluido")
 
 ## **Ejercicio 2**
-- [x] **2.1 Crear un repositorio repo02 directamente en GitHub**
-- [ ] **2.2 Clonar el repositorio a un directorio local**
-- [ ] **2.3 Añadir archivo README.md y ejecutar los comandos pertinentes para hacer el push**
-- [ ] **2.4 Resumen principales comandos de Git con los que hemos trabajado**
+- [x] **2.1 Crear un repositorio repo02 directamente en GitHub.**  
+    ![Captura 2.1](./Screenshots/Captura%202-1.png "Repositorio creado")
+- [x] **2.2 Clonar el repositorio a un directorio local.**  
+    ![Captura 2.2](./Screenshots/Captura%202-2.png "Clonación realizada")
+- [x] **2.3 Añadir archivo README.md y ejecutar los comandos pertinentes para hacer el push.**  
+    ![Captura 2.3](./Screenshots/Captura%202-3.png "README.md creado y push realizado, mostrando los comandos")
+- [x] **2.4 Resumen principales comandos de Git con los que hemos trabajado.**  
+  
+    | Comando       | Descripción                                             |
+    |---------------|---------------------------------------------------------|
+    | `git init`    | Inicializa un repositorio Git local                     |
+    | `git clone`   | Clona un repositorio Git remoto                         |
+    | `git add`     | Añade archivos al área de preparación                   |
+    | `git commit`  | Guarda los cambios en el repositorio                    |
+    | `git status`  | Muestra el estado actual del repositorio                |
+    | `git pull`    | Descarga cambios desde un repositorio remoto            |
+    | `git push`    | Sube cambios a un repositorio remoto                    |
+    | `git branch`  | Lista, crea o elimina ramas                             |
+
+## **Ejercicio 3**
+
+- [x] **3.1 Registrarse en https://progate.com y realizar el bloque Git**  
+    ![Captura 3.1](./Screenshots/Captura%203-1.png "Curso completado")
