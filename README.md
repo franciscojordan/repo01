@@ -40,7 +40,48 @@
     | `git push`    | Sube cambios a un repositorio remoto                    |
     | `git branch`  | Lista, crea o elimina ramas                             |
 
-## **Ejercicio 3**
+## **Ejercicio 3**  
 
 - [x] **3.1 Registrarse en https://progate.com y realizar el bloque Git**  
     ![Captura 3.1](./Screenshots/Captura%203-1.png "Curso completado")
+
+## **Ejercicio 4**  
+- [x] **4.1 Crear repositorio local y remoto con nombre repo04**  
+    Hecho  
+- [x] **4.2 Añadir README.md y subir los cambios al repositorio**  
+    Hecho  
+- [x] **4.3 Crear rama con mi nombre y fecha actual (fran18052023)**  
+    ![Captura 4.1](./Screenshots/Captura%204-1.png "Rama creada")
+- [x] **4.4 Desde la nueva rama editar el archivo**  
+    Hecho
+- [x] **4.5 Hacer 3 commits**  
+    Hecho  
+- [x] **4.6 Fusionar la rama con main y hacer push**  
+    ![Captura 4.2](./Screenshots/Captura%204-2.png "Rama fusionada y push realizado")
+- [x] **4.7 Eliminar solo localmente la rama fran18052023**  
+    ![Captura 4.3](./Screenshots/Captura%204-3.png "Rama eliminada localmente")
+
+## **Ejercicio 5**
+- [x] **5.1 Crear repositorio local y remoto con nombre repo05**  
+    Hecho  
+- [x] **5.2 Añadir README.md**  
+    Hecho  
+- [x] **5.3 Crear rama con mi nombre y fecha actual (fran18052023)**  
+    Hecho  
+- [x] **5.4 Hacer 3 commits**  
+    Hecho  
+- [x] **5.5 Subir ambas ramas**  
+    Hecho  
+- [x] **5.6 Realizar un merge no fast-forward**  
+    Hecho
+- [x] **5.7 Visualizar el resultado**  
+    Desde el terminal:  
+    ![Captura 5.1](./Screenshots/Captura%205-1.png "Resultado del merge a través de consola")  
+
+    Desde  la extensión de VSC:  
+    ![Captura 5.2](./Screenshots/Captura%205-2.png "Resultado del merge a través de la extensión VSC")  
+
+## **Ejercicio 6**  
+- [x] **Hacer un alias para "git log --all --oneline --decorate --graph" que sea "git adog"**  
+    ![Captura 6](./Screenshots/Captura%206.png "Creación del alias \"adog\" y comprobación") 
+  
