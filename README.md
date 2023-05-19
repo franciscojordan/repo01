@@ -84,4 +84,4 @@
 ## **Ejercicio 6**  
 - [x] **Hacer un alias para "git log --all --oneline --decorate --graph" que sea "git adog"**  
     ![Captura 6](./Screenshots/Captura%206.png "Creación del alias \"adog\" y comprobación") 
-  
+  $$  $$
